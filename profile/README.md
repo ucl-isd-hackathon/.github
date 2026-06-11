@@ -3,7 +3,7 @@ Welcome to the Hackathon GitHub Space!
 
 ![UCL ISD Hackathon Logo](isd_hackathon_logo.png)
 
-## And the winners are:
+## And the winners for Spring 2026 Hackathon are:
 
 |Place|Team|
 |-|-|
